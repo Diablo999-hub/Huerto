@@ -15,3 +15,21 @@ node_modules
 .next/
 .DS_Store
 .vercel
+
+# Node / package locks
+package-lock.json
+pnpm-lock.yaml
+
+# Editor
+.vscode/
+.idea/
+
+# Build output
+.out/
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage/
